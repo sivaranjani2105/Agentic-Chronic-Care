@@ -1,0 +1,5 @@
+{
+  "name": "Chronic Disease Care Planner",
+  "description": "AI-powered care planner for Diabetes and Hypertension management using Gemini Agentic AI.",
+  "requestFramePermissions": []
+}
